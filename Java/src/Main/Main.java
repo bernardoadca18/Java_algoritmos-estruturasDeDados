@@ -9,6 +9,9 @@ public class Main
 {
     public static void main(String[] args) 
     {
-        
+        /*
+            Chamar as funções aqui.
+            Call the functions from here.
+        */ 
     }
 }
